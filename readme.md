@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![]<a href="https://app.daily.dev/mhikelo"><img src="https://api.daily.dev/devcards/v2/Li8ZIRxphZqx1v15VTMap.png?r=eoh&type=wide" width="652" alt="Mhike's Dev Card"/></a>
+![] <a href="https://app.daily.dev/mhikelo"><img src="https://api.daily.dev/devcards/v2/Li8ZIRxphZqx1v15VTMap.png?r=eoh&type=wide" width="652" alt="Mhike's Dev Card"/></a>
 
 ---
 
